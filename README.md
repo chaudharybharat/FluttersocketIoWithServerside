@@ -214,13 +214,13 @@ npm i socket.io-redis@5
 ```
 ```
 http://localhost:8080/  
+
 ```
--Io socket official site:
+- Io socket official site:
 [https://socket.io/docs/v3/](https://socket.io/docs/v3/)
 
 - Output
 
+![Screenshot of an output.](https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png)
 
-![Screenshot of an output.](https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png).
-![Screenshot of an output.]([https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png).
-![Screenshot of an output.](https://github.com/chaudharybharat/FluttersocketIoWithServerside/blob/main/ServerNode/mobile_chat.png).
+
