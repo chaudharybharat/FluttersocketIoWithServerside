@@ -221,6 +221,6 @@ http://localhost:8080/
 - Output
 
 
-![Screenshot of an output.](https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png)
-![Screenshot of an output.]([https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png)
-![Screenshot of an output.](https://github.com/chaudharybharat/FluttersocketIoWithServerside/blob/main/ServerNode/mobile_chat.png)
+![Screenshot of an output.](https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png).
+![Screenshot of an output.]([https://github.com/chaudharybharat/socket.ioNode/blob/main/output.png).
+![Screenshot of an output.](https://github.com/chaudharybharat/FluttersocketIoWithServerside/blob/main/ServerNode/mobile_chat.png).
