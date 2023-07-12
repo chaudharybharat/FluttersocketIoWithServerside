@@ -193,7 +193,6 @@ create src folder and create there index.html file
 </html>
 
 ```
-```
 - Run command and see in terminal event listener:(user do any action you can see in terminal log)
   
 ```
